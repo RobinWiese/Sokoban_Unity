@@ -15,4 +15,9 @@ This project is a classic Sokoban implementation developed in **C#** using the *
 * **Architecture:** Static state variables and dictionary-based tracking of dynamic game objects
 
 ## Source code
-* **Assets/Sokoban/scripts**
+**Assets/Sokoban/scripts**
+**Main behaviour is found in:**
+*GridManager.cs
+*PlayerController.cs
+*LevelLoader.cs
+*(WebGLLevel.cs for visualization of text based level storage)
