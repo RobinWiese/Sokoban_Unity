@@ -17,7 +17,7 @@ This project is a classic Sokoban implementation developed in **C#** using the *
 ## Source code
 **Assets/Sokoban/scripts**
 **Main behaviour is found in:**
-*GridManager.cs
-*PlayerController.cs
-*LevelLoader.cs
-*(WebGLLevel.cs for visualization of text based level storage)
+* GridManager.cs
+* PlayerController.cs
+* LevelLoader.cs
+* (WebGLLevel.cs for visualization of text based level storage)
