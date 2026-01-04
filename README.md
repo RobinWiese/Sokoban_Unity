@@ -2,7 +2,7 @@
 **Technical High School Thesis (Facharbeit) | Grade: 1.0**
 
 ## Description
-This project is a classic Sokoban implementation developed in **C#** using the **Unity Engine**. It was created as part of my final high school thesis to demonstrate fundamental software engineering principles.
+This project is a classic Sokoban implementation developed in **C#** using the **Unity Engine**. It was created as part of my high school thesis to demonstrate fundamental software engineering principles.
 
 ## Technical Highlights
 * **Custom Level Loader:** Parsed string-based level data into 2D grid structures.
