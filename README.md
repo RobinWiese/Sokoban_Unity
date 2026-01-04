@@ -1,5 +1,5 @@
 # Sokoban_Unity
-**Technical High School Thesis (Facharbeit) | Grade: 1.0**
+**Technical High School Thesis (Facharbeit) | Grade: A-**
 
 ## Description
 This project is a classic Sokoban implementation developed in **C#** using the **Unity Engine**. It was created as part of my high school thesis to demonstrate fundamental software engineering principles.
@@ -13,3 +13,6 @@ This project is a classic Sokoban implementation developed in **C#** using the *
 * **Engine:** Unity
 * **Language:** C#
 * **Architecture:** Static state variables and dictionary-based tracking of dynamic game objects
+
+## Source code
+* **Assets/Sokoban/scripts**
