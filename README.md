@@ -6,10 +6,10 @@ This project is a classic Sokoban implementation developed in **C#** using the *
 
 ## Technical Highlights
 * **Custom Level Loader:** Parsed string-based level data into 2D grid structures.
-* **State Management:** Implemented robust game states (Pause, Victory, Gameplay) to control flow.
-* **Collision & Logic:** Developed a grid-based movement system with real-time collision detection for player-box-wall interactions.
+* **State Management:** Implemented centralized handling of core game status (Pause, Victory, Gameplay) to control flow.
+* **Collision & Logic:** Developed a grid-based movement system with deterministic collision checks for player, crate, and wall interactions
 
 ## Tech Stack
 * **Engine:** Unity
 * **Language:** C#
-* **Architecture:** Static State Managers, Dictionary-based object tracking.
+* **Architecture:** Static state variables and dictionary-based tracking of dynamic game objects
